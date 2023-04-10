@@ -1,4 +1,4 @@
-=== WooCommerce PayPal Invoice ===
+=== Easy PayPal Invoice ===
 Contributors: rkb007, themicly
 Tags: woocommerce, paypal, invoice, cart, checkout
 Requires at least: 5.3
@@ -14,7 +14,7 @@ Add Paypal Invoice as a payment method to woocommerce and get paid instantly by 
 
 = Requirements =
 
-To install WooCommerce PayPal Invoice, you need:
+To install Easy PayPal Invoice, you need:
 
 * WordPress Version 5.3 or newer (installed)
 * PHP Version 7.4 or newer
@@ -24,7 +24,7 @@ To install WooCommerce PayPal Invoice, you need:
 
 1. Log in to WordPress admin.
 2. Go to **Plugins > Add New**.
-3. Search for the **WooCommerce PayPal Invoice** plugin.
+3. Search for the **Easy PayPal Invoice** plugin.
 4. Click on **Install Now** and wait until the plugin is installed successfully.
 5. You can activate the plugin immediately by clicking on **Activate** now on the success page. If you want to activate it later, you can do so via **Plugins > Installed Plugins**.
 
@@ -32,7 +32,7 @@ To install WooCommerce PayPal Invoice, you need:
 
 Follow the steps below to connect the plugin to your PayPal account:
 
-1. After you have activated the WooCommerce PayPal Payments plugin, go to **WooCommerce  > Settings**.
+1. After you have activated the Easy PayPal Invoice plugin, go to **WooCommerce  > Settings**.
 2. Click the **Payments** tab.
 3. Enable **PayPal Invoice**
 4. Click the **PayPal Checkout** tab.

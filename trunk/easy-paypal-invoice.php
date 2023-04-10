@@ -1,14 +1,14 @@
 <?php
 /*
-* Plugin Name: WooCommerce Paypal Invoice
+* Plugin Name: Easy Paypal Invoice
 * Description: Add Paypal Invoice as a payment method to woocommerce and get paid instantly by customer, even if they don’t have an account with PayPal.
 * Version: 1.0.0
 * Requires at least:       5.0
 * Tested up to:            6.1
-* Author: Themicly
+* Author: Md. Rakibul Islam
 * Author Email: rakib1708@gmail.com
-* Author URI: https://themicly.com/
-* Text Domain: wc-paypal-invoice
+* Author URI: https://github.com/rakibdevs
+* Text Domain: easy-paypal-invoice
 */
 
 add_action('woocommerce_loaded', 'init_paypal_invoice_gateway');
